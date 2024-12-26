@@ -1,0 +1,11 @@
+{
+  "name": "pratyuverse",
+  "version": "1.0.0",
+  "description": "A cutting-edge AI, meticulously crafted from scratch, designed to offer personalized insights, guidance, and mentorship, all tailored to the unique journey of Pratyush Kumar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Pratyush kumar",
+  "license": "SEE LICENSE IN LICENSE"
+}
