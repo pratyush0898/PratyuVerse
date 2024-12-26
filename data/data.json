@@ -1,0 +1,301 @@
+{
+    "personalDetails": {
+        "name": "Pratyush Kumar",
+        "surname": "Rangwa",
+        "email": "pratyush.devloper@gmail.com",
+        "phone": "+91 939943904",
+        "address": "5922+QW2, Shiv Para, Station Maroda, Bhilai, Chhattisgarh, India 491001",
+        "portfolioWebsite": "https://nvmPratyush.netlify.app/",
+        "socialLinks": {
+            "github": "https://github.com/pratyush0898",
+            "xTwitter": "https://x.com/nvmPratyush",
+            "instagram": "https://www.instagram.com/nvm_partyush/",
+            "linkedin": "https://www.linkedin.com/in/pratyush-kumar-751a1229b/",
+            "medium": "https://medium.com/@nvmpratyush"
+        }
+    },
+    "professionalSummary": {
+        "title": "Full-stack Web and Astrology Enthusiast",
+        "expertise": [
+            "Web development using JavaScript, Node.js, React, and Next.js",
+            "Building scalable, secure, and reliable web applications",
+            "Adhering to industry standards and best practices",
+            "Problem-solving and learning new technologies",
+            "Hands-on experience with Firebase and AWS for backend services",
+            "User interface design and optimization using Figma"
+        ],
+        "achievements": [
+            "Created multiple open-source projects with high community engagement.",
+            "Successfully built and deployed scalable web applications on Vercel and GitHub Pages.",
+            "Actively contributed to developer communities, offering mentorship and code reviews."
+        ]
+    },
+    "projects": [
+        {
+            "name": "Portfolio Website",
+            "description": "A website showcasing skills, projects, and contact details for collaboration.",
+            "technologies": ["React", "JavaScript", "CSS"],
+            "highlights": [
+                "Responsive design optimized for both desktop and mobile platforms.",
+                "Integrated a real-time feedback form for users to connect.",
+                "SEO-optimized content to rank higher in search engines."
+            ]
+        },
+        {
+            "name": "Web Scraping Tool",
+            "description": "Python tool for extracting data from websites, automating tasks, and organizing information.",
+            "technologies": ["Python"],
+            "highlights": [
+                "Supports multithreading for faster data extraction.",
+                "Exports data in multiple formats, including CSV and JSON.",
+                "Handles CAPTCHA and anti-scraping mechanisms."
+            ]
+        },
+        {
+            "name": "101 HTML Features",
+            "description": "Projects teaching the fundamentals of web development with HTML, CSS, and JavaScript.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "highlights": [
+                "Contains interactive tutorials and quizzes for learners.",
+                "Covers advanced HTML5 and CSS3 features.",
+                "Gamified learning approach to keep users engaged."
+            ]
+        },
+        {
+            "name": "E-commerce Store",
+            "description": "A user-friendly store featuring product browsing, cart management, and optional payment integration.",
+            "technologies": ["React", "Node.js"],
+            "highlights": [
+                "Integrated with Firebase for user authentication.",
+                "Dynamic product listing and inventory management.",
+                "Secure payment gateway using Razorpay."
+            ]
+        },
+        {
+            "name": "Color Paradox",
+            "description": "Real-time color palette generator with React and Vite.",
+            "technologies": ["React", "Vite"],
+            "highlights": [
+                "Live preview of color palettes with Hex and RGB values.",
+                "Allows users to save and share palettes.",
+                "Includes accessibility checks for color contrast."
+            ]
+        },
+        {
+            "name": "OpenAI API Project",
+            "description": "AI chatbot using OpenAI GPT-3.5 API, runnable in the terminal.",
+            "technologies": ["Python", "OpenAI API"],
+            "highlights": [
+                "Implements a conversational interface with memory.",
+                "Customizable prompt settings for specific tasks.",
+                "Supports multi-language inputs and outputs."
+            ]
+        },
+        {
+            "name": "ArtVision Gallery",
+            "description": "Pinterest-like project with front-end focus using array methods.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "highlights": [
+                "Dynamic grid layout with responsive design.",
+                "Features like pinning and categorizing items.",
+                "Optimized image loading for better performance."
+            ]
+        },
+        {
+            "name": "GitHub Theme Toggler Website",
+            "description": "Website with Dark, Light, and Solarized themes persisting via localStorage.",
+            "technologies": ["JavaScript", "CSS"],
+            "highlights": [
+                "Theme selection with smooth transitions.",
+                "LocalStorage integration to remember user preferences.",
+                "Customizable theme palettes."
+            ]
+        },
+        {
+            "name": "Noi World",
+            "description": "Dynamic React website showcasing the Nio ES6 luxury electric SUV.",
+            "technologies": ["React", "CSS"],
+            "highlights": [
+                "Features like interactive car models and specs comparison.",
+                "Built with React Router for seamless navigation.",
+                "Integrated animations for an engaging user experience."
+            ]
+        }
+    ],
+    "journey": {
+        "title": "Journey to Code",
+        "details": "Started coding at 14 with a dream to become CEO of a $100 million company by 30.",
+        "timeline": [
+            { "year": 2022, "milestone": "Started learning HTML and CSS." },
+            { "year": 2023, "milestone": "Built first personal website." },
+            { "year": 2024, "milestone": "Completed multiple open-source projects and gained proficiency in JavaScript and React." }
+        ],
+        "challenges": [
+            "Debugging complex code and understanding APIs.",
+            "Balancing schoolwork with coding and self-learning."
+        ],
+        "advice": [
+            "Start small and learn incrementally.",
+            "Join coding communities for inspiration.",
+            "Focus on solving real-world problems."
+        ]
+    },
+    "skills": [
+        "Python", "HTML5", "CSS3", "JavaScript", "Node.js", "React", "Next.js",
+        "Firebase", "AWS", "Google Cloud", "Figma", "GitHub Pages", "Vercel",
+        "TailwindCSS", "OpenAI API", "REST APIs", "Vite", "Database Management"
+    ],
+    "additionalResources": {
+        "repositoriesAPI": "https://api.github.com/users/pratyush0898/repos?per_page=1000&type=public",
+        "websiteStatus": "Under construction but filled with ongoing progress and projects."
+    },
+    "inspirationalQuotes": [
+        "Coding isn't about being a genius. It's about being persistent and creative.",
+        "Every bug is a lesson waiting to be learned.",
+        "Think big, start small, and keep iterating."
+    ],
+    "goals": {
+        "shortTerm": [
+            "Master advanced React concepts.",
+            "Publish a technical blog post on Medium.",
+            "Complete a certification in cloud computing."
+        ],
+        "longTerm": [
+            "Become CEO of a $100 million company by age 30.",
+            "Develop an AI-driven SaaS product.",
+            "Expand open-source contributions to mentor new developers."
+        ]
+    },
+    "hobbiesAndInterests": [
+        {
+            "category": "Coding",
+            "activities": [
+                "Building web applications and experimenting with new technologies.",
+                "Contributing to open-source projects and engaging with the developer community.",
+                "Solving algorithmic challenges and participating in coding contests."
+            ]
+        },
+        {
+            "category": "Learning",
+            "activities": [
+                "Studying advanced mathematical concepts like sigma notation and algebra.",
+                "Exploring space science and physics through documentaries and online courses.",
+                "Learning Spanish to enhance linguistic and cultural knowledge."
+            ]
+        },
+        {
+            "category": "Personal Development",
+            "activities": [
+                "Reading motivational books and watching inspirational talks.",
+                "Practicing problem-solving techniques for better decision-making.",
+                "Exploring astrology as a tool for understanding personality and behavior."
+            ]
+        }
+    ],
+    "favoriteTechStack": {
+        "frontend": ["React", "Next.js", "TailwindCSS", "Vite"],
+        "backend": ["Node.js", "Express", "Firebase"],
+        "databases": ["MongoDB", "PostgreSQL"],
+        "deployment": ["GitHub Pages", "Vercel", "AWS", "Google Cloud"],
+        "tools": ["Figma", "Postman", "Emmet", "Tabnine"],
+        "APIs": ["OpenAI API", "REST APIs", "GraphQL"]
+    },
+    "communityEngagement": {
+        "platforms": [
+            "GitHub: Collaborates with developers globally on open-source projects.",
+            "LinkedIn: Shares updates, achievements, and connects with professionals.",
+            "Medium: Writes technical blogs to share knowledge with the developer community.",
+            "Discord: Engages with coding groups and tech enthusiasts to share ideas."
+        ],
+        "contributions": [
+            "Reviewed and merged pull requests in open-source repositories.",
+            "Created beginner-friendly documentation for various projects.",
+            "Participated in online hackathons and coding challenges."
+        ]
+    },
+    "learningResources": {
+        "courses": [
+            "The Complete JavaScript Course by Jonas Schmedtmann",
+            "React - The Complete Guide by Maximilian Schwarzmüller",
+            "Python for Everybody by Dr. Charles Severance"
+        ],
+        "platforms": ["Udemy", "Khan Academy", "Coursera", "YouTube", "Medium"],
+        "favoriteCommunities": [
+            "freeCodeCamp",
+            "Hashnode",
+            "CodePen",
+            "Stack Overflow"
+        ]
+    },
+    "achievements": [
+        {
+            "title": "Top Performer in a School Science Exhibition",
+            "description": "Designed an interactive model explaining gravitational waves."
+        },
+        {
+            "title": "GitHub Contributions Streak",
+            "description": "Achieved a 100-day streak contributing to open-source projects."
+        },
+        {
+            "title": "Rubik's Cube Speed Solver",
+            "description": "Solved a 3x3 Rubik's Cube in 9.01 seconds and a 4x4 in 47.34 seconds."
+        },
+        {
+            "title": "Certified Web Developer",
+            "description": "Completed certifications in web development technologies."
+        }
+    ],
+    "futureProjects": [
+        {
+            "name": "Astro Insights",
+            "description": "A platform combining astrology and machine learning to deliver personalized insights.",
+            "plannedTechnologies": ["React", "Node.js", "TensorFlow", "Firebase"]
+        },
+        {
+            "name": "EduChain",
+            "description": "Blockchain-based platform to authenticate and store educational credentials securely.",
+            "plannedTechnologies": ["Solidity", "React", "IPFS"]
+        },
+        {
+            "name": "Virtual Study Buddy",
+            "description": "An AI-powered chatbot designed to assist students with study plans and subject queries.",
+            "plannedTechnologies": ["Python", "OpenAI API", "Flask"]
+        }
+    ],
+    "personalValues": [
+        "Integrity: Believes in being honest and ethical in all endeavors.",
+        "Curiosity: Thrives on learning new things and exploring unknown territories.",
+        "Collaboration: Enjoys working with others to achieve common goals.",
+        "Innovation: Constantly seeks to improve and create value through technology."
+    ],
+    "roleModels": [
+        {
+            "name": "Elon Musk",
+            "reasons": [
+                "Visionary thinking in technology and space exploration.",
+                "Unyielding determination despite challenges."
+            ]
+        },
+        {
+            "name": "Sundar Pichai",
+            "reasons": [
+                "Exceptional leadership as CEO of Google and Alphabet.",
+                "Commitment to innovation and inclusivity."
+            ]
+        },
+        {
+            "name": "Satya Nadella",
+            "reasons": [
+                "Transformative leadership at Microsoft.",
+                "Focus on empowering people and organizations through technology."
+            ]
+        }
+    ],
+    "motivationalMantras": [
+        "If the plan doesn't work, change the plan, but never the goal.",
+        "Dream big, start small, but most importantly, start.",
+        "Every line of code brings me closer to my goals.",
+        "Failures are just stepping stones to success.",
+        "The only limit is the one you set for yourself."
+    ]
+}
